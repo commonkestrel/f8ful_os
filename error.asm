@@ -1,0 +1,1 @@
+@error "this is a test error for library imports"
